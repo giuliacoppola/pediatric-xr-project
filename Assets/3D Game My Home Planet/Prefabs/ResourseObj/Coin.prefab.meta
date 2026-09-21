@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a981493f9c0a05349b29fff1ba7ca08c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300321
+  packageName: 3D Game My Home Planet
+  packageVersion: 1.0
+  assetPath: Assets/3D Game My Home Planet/Prefabs/ResourseObj/Coin.prefab
+  uploadId: 702445
